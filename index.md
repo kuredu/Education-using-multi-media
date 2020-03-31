@@ -7,9 +7,9 @@
 ## オンライン授業とは
 
 ## オンライン授業の実現方法
-- リアルタイム授業 + LMS BEEF
-- 資料＋ワークシート +  LMS BEEF
-- 動画教材 + LMS BEEF
+- [リアルタイム授業 + LMS BEEF](/withzoom.md)  
+- [資料＋ワークシート +  LMS BEEF](/withdocument.md)  
+- [動画教材 + LMS BEEF](/withmovie.md)  
 
 ## 著作権について
 
